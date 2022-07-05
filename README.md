@@ -18,3 +18,4 @@ Projeto desenvolvido durante o curso [B7Web](https://b7web.com.br).
 - `yarn dev`
 
 ## Deploy da aplicacao
+https://reactmemorygamets.netlify.app/
